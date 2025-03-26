@@ -11,6 +11,9 @@ Brief repo about advanced models for Natural Language Processing
 - Neural models like feedforward
 - PyTorch
 
+[Activity 1](https://github.com/afelipfo/NLP/blob/main/redes_neuronales.ipynb)
+
+
 ### Week 2
 
 - Sequantial models: Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM)
